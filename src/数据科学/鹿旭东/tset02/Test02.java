@@ -1,10 +1,8 @@
 package 数据科学.鹿旭东.tset02;
 
-import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-import javax.swing.text.LayeredHighlighter;
 
 public class Test02 {
 
